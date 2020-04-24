@@ -1,4 +1,4 @@
-# img_for_notes
+# Img For Notes
 
 GitHub图床，用于存储笔记中的图片，也算是GitHub一个很好玩的应用。目前已经停止了使用，换到了其他图床。
 
